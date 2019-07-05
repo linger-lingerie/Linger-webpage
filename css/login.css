@@ -19,8 +19,8 @@ fieldset{
 }
 label{
     width: 30%;
-    color: pink;
-    font-size: 16;
+    color: black;
+    font-size: 30;
     font-weight: bold;
 }
 input{
@@ -32,6 +32,8 @@ form{
 }
 h1{
     color: pink;
+    font-size: 30;
+    font-weight: bold;
 }
 button{
     border-radius: 5px;
